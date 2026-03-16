@@ -64,31 +64,63 @@
 
 
 
-
                 <h3><i class="fas fa-envelope-open-text"></i> Endereço</h3>
                 <div class="renda-exemplo">
 
                     <div class="input-renda">
-                        <p><i class="fas fa-calculator" style="color:#00796b;"></i> <strong>CVV: </strong></p>
-                        
+                        <p><i class="fas fa-calculator" style="color:#00796b;"></i> <strong>Logradouro: </strong></p>
                         <label for=""></label>
                         <input type="text" class="input-renda">
                     </div>
+
+                    <div class="input-renda">
+                        <p><i class="fas fa-calculator" style="color:#00796b;"></i> <strong>Número: </strong></p>
+                        <label for=""></label>
+                        <input type="text" class="input-renda">
+                    </div>
+
+                    <div class="input-renda">
+                        <p><i class="fas fa-calculator" style="color:#00796b;"></i> <strong>Bairro: </strong></p>
+                        <label for=""></label>
+                        <input type="text" class="input-renda">
+                    </div>
+
+                    <div class="input-renda">
+                        <p><i class="fas fa-calculator" style="color:#00796b;"></i> <strong>Cidade: </strong></p>
+                        <label for=""></label>
+                        <input type="text" class="input-renda">
+                    </div>
+
+                    <div class="input-renda">
+                        <p><i class="fas fa-calculator" style="color:#00796b;"></i> <strong>Estado: </strong></p>
+                        <label for=""></label>
+                        <input type="text" class="input-renda">
+                    </div>
+
+
                 </div>
-
-
-
 
                 <h3><i class="fas fa-envelope-open-text"></i> Cartão de crédito<span class="info-icon" title="Para depósito">🛈</span></h3>
                 <div class="renda-exemplo">
 
                     <div class="input-renda">
+                        <p><i class="fas fa-calculator" style="color:#00796b;"></i> <strong>Número do cartão de crédito: </strong></p>
+                        <label for=""></label>
+                        <input type="text" class="input-renda">
+                    </div>
+
+                    <div class="input-renda">
                         <p><i class="fas fa-calculator" style="color:#00796b;"></i> <strong>CVV: </strong></p>
                         
                         <label for=""></label>
                         <input type="text" class="input-renda">
                     </div>
+
                 </div>
+
+
+
+
 
 
                 <p><i class="fas fa-check-circle"></i> Após envio, nossa equipe fará sua análise e daremos a resposta na área <strong>conta</strong>.</p>
